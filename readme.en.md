@@ -52,16 +52,16 @@ You will also need to create the `partials` folder and the following partials:<b
 
 - [ ] **(1) Run `npm init` to begin your Node.js project.**
 - [ ] **(2) Install the following packages as dependencies in your project.**
-  - [ ] `http-status-codes`
-  - [ ] `express`
-  - [ ] `ejs`
-  - [ ] `express-ejs-layouts`
-- [ ] **(3) Create a `main.js` (or `app.js`) file and set up the Express server.**
-- [ ] **(4) Create a `partials` folder inside the `views` folder and create the following partials:**
-  - [ ] `header.ejs` - the header for all pages
-  - [ ] `navigation.ejs` - the navigation bar for all pages
-  - [ ] `footer.ejs` - the footer for all pages
-  - [ ] `confetti.ejs` - confetti for the thanks page
+  - [x ] `http-status-codes`
+  - [ x] `express`
+  - [x ] `ejs`
+  - [ x] `express-ejs-layouts`
+- [x ] **(3) Create a `main.js` (or `app.js`) file and set up the Express server.**
+- [x ] **(4) Create a `partials` folder inside the `views` folder and create the following partials:**
+  - [x ] `header.ejs` - the header for all pages
+  - [ x] `navigation.ejs` - the navigation bar for all pages
+  - [ x] `footer.ejs` - the footer for all pages
+  - [ x] `confetti.ejs` - confetti for the thanks page
 - [ ] **(5) Change the file extensions of the given HTML files to `.ejs` and add a `layout.ejs` file to the `views` folder to set up the layout.**
   - [ ] `layout.ejs` - handling the layout for all pages
     - [ ] `head` - update the `meta` tags and the `title` tag with your own information

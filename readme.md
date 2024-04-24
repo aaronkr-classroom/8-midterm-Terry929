@@ -60,17 +60,17 @@ HTML 파일만 제공되었기 때문에 EJS 파일을 만들고 페이지를 �
   - [ ] `footer.ejs` - 모든 페이지에 사용되는 푸터
   - [ ] `nav.ejs` - 모든 페이지에 사용되는 네비게이션 바
   - [ ] `confetti.ejs` - thanks 페이지에 사용되는 confetti
-- [ ] **(5) 주어진 HTML 파일의 확장자를 `.ejs`로 변경하고 `views` 폴더에 `layout.ejs` 파일을 추가하여 레이아웃을 설정합니다.**
-  - [ ] `layout.ejs` - 모든 페이지의 레이아웃
-    - [ ] `head` - `meta` 태그와 `title` 태그를 자신의 정보로 업데이트합니다.
-  - [ ] `index.ejs` - GET 메소드로 접근 가능
-  - [ ] `transportation.ejs` - GET 메소드로 접근 가능
-  - [ ] `contact.ejs` - GET과 POST 메소드로 접근 가능
-  - [ ] `thanks.ejs` - POST 메소드 후에 접근 가능
-  - [ ] `error.ejs` - 에러 발생 시 접근
-- [ ] **(6) 다음 컨트롤러를 만들어 라우트와 에러를 처리하세요.**
-  - [ ] `homeController` - 애플리케이션의 모든 라우트(GET과 POST)를 처리하는 컨트롤러
-  - [ ] `errorController` - 애플리케이션 에러를 처리하는 컨트롤러
+- [x ] **(5) 주어진 HTML 파일의 확장자를 `.ejs`로 변경하고 `views` 폴더에 `layout.ejs` 파일을 추가하여 레이아웃을 설정합니다.**
+  - [x ] `layout.ejs` - 모든 페이지의 레이아웃
+    - [x ] `head` - `meta` 태그와 `title` 태그를 자신의 정보로 업데이트합니다.
+  - [x ] `index.ejs` - GET 메소드로 접근 가능
+  - [x ] `transportation.ejs` - GET 메소드로 접근 가능
+  - [x ] `contact.ejs` - GET과 POST 메소드로 접근 가능
+  - [x ] `thanks.ejs` - POST 메소드 후에 접근 가능
+  - [x ] `error.ejs` - 에러 발생 시 접근
+- [x ] **(6) 다음 컨트롤러를 만들어 라우트와 에러를 처리하세요.**
+  - [x ] `homeController` - 애플리케이션의 모든 라우트(GET과 POST)를 처리하는 컨트롤러
+  - [x ] `errorController` - 애플리케이션 에러를 처리하는 컨트롤러
 
 ---
 
